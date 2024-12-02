@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhanashrigawali
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React, Redux, Nodejs.
+- 🌱 Experienced in React, Redux, Nodejs.
 - 📫 How to reach me : dhanashrigawali125@gmail.com
 
 <!---
